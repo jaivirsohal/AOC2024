@@ -32,7 +32,6 @@ fun safeDampener(input: List<String>): Int {
             }
         }
     }
-
     return safeReports.size
 }
 
